@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UASMobile</string>
+    <string name="title_match">League</string>
+    <string name="title_team">Teams</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="teamname">teamname</string>
+    <string name="detail">detail</string>
+</resources>
